@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using ColossalFramework;
 using ColossalFramework.Plugins;
 using Transit.Framework;
@@ -26,7 +26,7 @@ namespace NetworkExtensions
             get { return "1.0.1"; }
         }
 
-        private const string NEXT_2_ID = "812125426";
+        private const string NEXT_2_ID = "2044086131";
         private bool? _isNEXT2Installed;
 
         public bool IsNEXT2Installed
